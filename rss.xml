@@ -4,11 +4,18 @@
         <description><![CDATA[beLazy]]></description>
         <link>https://thegrid.ai/belazy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 21:56:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 22:14:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/belazy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3502abb0-3802-4523-9675-e81b92719f68.jpg">]]></description>
+            <link>https://thegrid.ai/belazy/f6aa709c-4325-47ee-936d-e3391ee67dba/index.html</link>
+            <guid isPermaLink="false">f6aa709c-4325-47ee-936d-e3391ee67dba</guid>
+            <pubDate>Mon, 11 Apr 2016 22:14:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[NIST Cloud Characteristics]]></title>
-            <description><![CDATA[<article><h1>NIST Cloud Characteristics</h1><p>undefined</p></article>]]></description>
+            <description><![CDATA[<article><h1>NIST Cloud Characteristics</h1><h2>Broad Network Access</h2></article>]]></description>
             <link>https://thegrid.ai/belazy/nist-cloud-characteristics/index.html</link>
             <guid isPermaLink="false">68e388f4-7b74-453e-8c18-477cab70956c</guid>
             <pubDate>Mon, 11 Apr 2016 21:55:55 GMT</pubDate>
