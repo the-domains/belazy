@@ -1,7 +1,7 @@
 name: beLazy
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.2926236030180007
+layout_spectrum: 0
+typography_spectrum: 0.22376
 cta:
   domain: null
   bucket: null
